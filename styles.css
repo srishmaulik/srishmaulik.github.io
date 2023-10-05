@@ -73,6 +73,7 @@ body {
 }
 .logo {
   margin-left: auto; /* Push the logo to the right */
+  color: red
 }
 .logo a {
   font-family: Georgia;
