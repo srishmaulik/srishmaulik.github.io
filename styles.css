@@ -74,6 +74,7 @@ body {
 
 .logo a {
   font-family: Georgia;
+  
 }
 
 .logo a:hover {
@@ -201,22 +202,6 @@ main {
 
 /* CSS for resume page */
 
-.button {
-  background-color: var(--cg-black);
-  border: none;
-  color: var(--cg-white);
-
-  font-family: monospace;
-
-  padding: 5px 7px;
-  text-align: center;
-
-  border-radius: 2px;
-}
-
-.button:hover {
-  background-color: var(--cg-blue);
-}
 
 .resume h2 {
   font-family: Georgia;
