@@ -48,6 +48,7 @@ body {
   position: relative;
   right: 30px;
   list-style: none;
+  margin-left:"auto"
 
   /* Debug border */
   /* border: solid blue; */
@@ -72,8 +73,7 @@ body {
   color: var(--cg-blue);
 }
 .logo {
-  margin-left: auto; /* Push the logo to the right */
-  color: red
+  margin-right: auto; /* Push the logo to the right */
 }
 .logo a {
   font-family: Georgia;
