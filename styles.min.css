@@ -1,0 +1,110 @@
+html {
+  height: 100%;
+}
+
+body {
+  background-color: white;
+  position: relative;
+  min-height: 100vh;
+  padding: 0;
+  margin: 0;
+}
+
+main {
+  padding: 0 20px 40px 20px;
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+}
+
+/* CSS for navigation bar */
+
+.navbar {
+  position: -webkit-sticky;
+  position: sticky;
+  top: 0;
+  width: 100%;
+  height: 7%;
+  z-index: 10;
+
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+  text-align: center;
+
+  background-color: black;
+  color: white;
+  padding: 0px 0px;
+
+  /* Debug border */
+  /* border: solid red; */
+}
+
+.nav-list {
+  display: flex;
+  flex-direction: row;
+  position: relative;
+  right: 30px;
+  list-style: none;
+}
+
+.navbar a {
+  color: white;
+  font-weight: bold;
+  margin: 0 12px;
+  text-decoration: none;
+  letter-spacing: 2px;
+}
+
+/* CSS for page footer */
+
+.footer {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  background-color: black;
+  color: white;
+  position: absolute;
+  bottom: 0;
+  width: 100%;
+  height: 2.5rem;
+}
+p {
+  font-family: sans-serif;
+  font-weight: bold;
+  font-size: 14px;
+}
+.class {
+  color: red;
+  background-color: blue;
+}
+
+#id {
+  color: green;
+  background-color: yellow;
+}
+p.title {
+  font-style: italic;
+  font-weight: 500;
+  font-size: 16px;
+}
+
+h1#main-title {
+  color: red;
+  background-color: blue;
+}
+/* This is a CSS comment. This CSS 
+* selects all input tags that have the 
+* required attribute. */
+input[required] {
+  letter-spacing: 2px;
+  text-decoration: underline;
+}
+
+/* This CSS selects all input tags that 
+* have a type attribute with the value "text"*/
+input[type="text"] {
+  height: 10%;
+  width: 10%;
+}
