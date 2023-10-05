@@ -71,7 +71,9 @@ body {
 .navbar a:active {
   color: var(--cg-blue);
 }
-
+.logo {
+  margin-left: auto; /* Push the logo to the right */
+}
 .logo a {
   font-family: Georgia;
   
