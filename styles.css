@@ -188,6 +188,16 @@ main {
   border-radius: 5px;
   /* box-shadow: 0 0 10px rgba(0, 0, 0, 0.1); */
 }
+.about-blog {
+  display: flex;
+  align-items: center;
+  justify-content: space-between;
+  padding: 20px;
+  background-color: #f8f8f8;
+  border: 1px solid #ccc;
+  border-radius: 5px;
+  /* box-shadow: 0 0 10px rgba(0, 0, 0, 0.1); */
+}
 
 .about-image-index img {
   max-width: 300px;
@@ -304,4 +314,3 @@ p {
     /* border: 2px solid black; */
   }
   
-
