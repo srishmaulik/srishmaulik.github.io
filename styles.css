@@ -309,6 +309,7 @@ p {
   height: 500px;
   flex-basis: 50px;
   flex-grow: 2;
+  align-self: center;
 
     /* Debug border */
     /* border: 2px solid black; */
