@@ -222,13 +222,13 @@ main {
   font-size: 40px;
   font-family: Georgia;
 }
-.download a { 
+.about-download a { 
   color: var(--cg-black);
   text-decoration: none;
   font-weight: bold;
   letter-spacing: 1px;
 }
-.download a:hover{
+.about-download a:hover{
   color: var(--cg-blue);
   font-weight: normal;}
 /* CSS for contact form */
