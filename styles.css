@@ -285,9 +285,9 @@ p {
     border-radius: 50%; /* Create a circular shape */
   }
 .about-image-blog img{
-  border-radius: 50%; ;
-  object-fit: cover; 
-  
+  height: 60% ;
+  width: 60%;
+  object-fit: cover;   
 }
 .page-title-resume{
   display: flex;
