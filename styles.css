@@ -171,11 +171,6 @@ main {
   text-decoration: underline;
 }
 
-.project-details
-.project-details p {
-  font-weight: lighter;
-}
-
 .project-name {
   font-weight: bold;
   font-size: 20px;
@@ -283,7 +278,7 @@ p {
   color: blue;
   font-weight: normal;}
   
-#page-title-resume{
+.page-title-resume{
   display: flex;
   justify-content: center;
   font-size: 40px;
