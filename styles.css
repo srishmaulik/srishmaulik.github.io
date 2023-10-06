@@ -282,7 +282,6 @@ p {
     width: 200px; /* Adjust the size as needed */
     height: 200px; /* Adjust the size as needed */
     overflow: hidden; /* Hide any image overflow outside the container */
-    border-radius: 100%;
   }
 .about-image-blog img{
   height: 60% ;
