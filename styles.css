@@ -303,14 +303,8 @@ p {
   font-weight: normal;}
 
 
-.about-image-blog {
-  object-fit: cover;
-  width: 100%;
-  height: 500px;
-  flex-basis: 50px;
-  flex-grow: 2;
-  align-self: center;
-  
+
+
 .round-image {
   width: 150px; /* Set your desired width */
   height: 150px; /* Set your desired height */
