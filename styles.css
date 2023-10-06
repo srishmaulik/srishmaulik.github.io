@@ -296,12 +296,12 @@ p {
   font-size: 40px;
   font-family: Georgia;
 }
-#download a{ 
+#download { 
   color: var(--cg-black);
   text-decoration: none;
   font-weight: bold;
   letter-spacing: 1px;
 }
-#download a:hover{
+#download :hover{
   color:blue;
   font-weight: normal;}
