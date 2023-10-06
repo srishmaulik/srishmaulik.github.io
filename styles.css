@@ -228,8 +228,8 @@ main {
   font-weight: bold;
   letter-spacing: 1px;
 }
-.download a :hover{
-  color:blue;
+.download a:hover{
+  color: var(--cg-blue);
   font-weight: normal;}
 /* CSS for contact form */
 
