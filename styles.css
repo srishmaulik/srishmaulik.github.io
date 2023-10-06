@@ -307,8 +307,8 @@ p {
 
 
 .round-image {
-  width: 150px; /* Set your desired width */
-  height: 150px; /* Set your desired height */
+  width: 200px; /* Set your desired width */
+  height: 250px; /* Set your desired height */
   border-radius: 50%; /* Make the image circular */
   object-fit: cover; /* Maintain aspect ratio and cover the entire circle */
 }
