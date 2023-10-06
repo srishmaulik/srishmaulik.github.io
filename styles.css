@@ -296,7 +296,7 @@ p {
   font-size: 40px;
   font-family: Georgia;
 }
-#download a{
+#download a{ 
   color: var(--cg-black);
   text-decoration: none;
   font-weight: bold;
