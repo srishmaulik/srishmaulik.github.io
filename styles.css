@@ -266,18 +266,34 @@ p {
   font-weight: bold;
   font-size: 14px;
 }
-.page-title-blog{
+#page-title-blog{
   display: flex;
   justify-content: center;
   font-size: 40px;
   font-family: Georgia;
 }
-.about-blog a{
+#about-blog a{
   color: var(--cg-black);
   text-decoration: none;
   font-weight: bold;
   letter-spacing: 1px;
 }
-.about-blog a:hover{
-  color: var(--cg-blue);
+#about-blog a:hover{
+  color: blue;
+  font-weight: normal;}
+  
+#page-title-resume{
+  display: flex;
+  justify-content: center;
+  font-size: 40px;
+  font-family: Georgia;
 }
+#page-title-resume a{
+  color: var(--cg-black);
+  text-decoration: none;
+  font-weight: bold;
+  letter-spacing: 1px;
+}
+#about-blog a:hover{
+  color: blue;
+  font-weight: normal;}
