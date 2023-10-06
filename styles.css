@@ -277,6 +277,7 @@ p {
 .about-blog a:hover{
   color: blue;
   font-weight: normal;}
+  
 .about-image-blog{
   object-fit: cover;
   border-radius: 50%;
