@@ -171,7 +171,8 @@ main {
   text-decoration: underline;
 }
 
-.project-details {
+.project-details
+.project-details p {
   font-weight: lighter;
 }
 
