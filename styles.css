@@ -284,12 +284,12 @@ p {
   font-size: 40px;
   font-family: Georgia;
 }
-.download-resume a{
+#download-resume a{
   color: var(--cg-black);
   text-decoration: none;
   font-weight: bold;
   letter-spacing: 1px;
 }
-.download-resume a:hover{
+#download-resume a:hover{
   color: blue;
   font-weight: normal;}
