@@ -193,8 +193,7 @@ main {
 .about-image-index img {
   max-width: 300px;
   border-radius: 3px;
-  border: 5px black;
-  padding: 15px;
+  
   height: 400;
   aspect-ratio : auto 400 / 400;
   /* box-shadow: 0 0 10px rgba(0, 0, 0, 0.2); */
@@ -202,8 +201,7 @@ main {
 .second_image img {
   max-width: 607px; /* Adjust as needed */
   border-radius: 3px;
-  border: 5px black;
-  padding: 15px;
+  
   height : 400;
   aspect-ratio: auto 607 / 400;
 }
