@@ -205,7 +205,7 @@ main {
   border: 5px solid transparent;
   padding: 20px;
   height : 400;
-  aspect-ratio: auto 400 / 400;
+  aspect-ratio: auto 500 / 400;
 }
 
 .about-text {
