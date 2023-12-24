@@ -199,7 +199,7 @@ main {
   /* box-shadow: 0 0 10px rgba(0, 0, 0, 0.2); */
 }
 .second_image img {
-  max-width: 300px; /* Adjust as needed */
+  max-width: 400px; /* Adjust as needed */
   border-radius: 3px;
   border: 1px solid transparent;
   height : 400;
