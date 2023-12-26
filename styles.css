@@ -182,7 +182,7 @@ main {
   display: flex;
   align-items: center;
   justify-content: space-between;
-  padding: 50px;
+  padding: 10px;
   background-color: #fbc372;
   border: 1px transparent #fbc372;
   border-radius: 5px;
@@ -238,7 +238,7 @@ main {
 }
 
 .about-text h2 {
-  font-size: 24px;
+  font-size: 36px;
   margin-bottom: 10px;
 }
 
