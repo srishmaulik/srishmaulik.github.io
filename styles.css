@@ -182,7 +182,7 @@ main {
   display: flex;
   align-items: center;
   justify-content: space-between;
-  padding: 20px;
+  padding: 50px;
   background-color: #fbc372;
   border: 1px transparent #fbc372;
   border-radius: 5px;
@@ -208,6 +208,23 @@ main {
   aspect-ratio: auto 607 / 400;
 }
 
+ /* .about-text {
+  flex: 1;
+  margin-left: 20px;
+  display: flex;
+  flex-direction: column; 
+  justify-content: center; 
+}
+
+.about-text h2 {
+  font-size: 24px;
+  margin-bottom: 10px;
+}
+
+.about-text p {
+  font-size: 16px;
+  line-height: 1.5;
+}  */
 .about-text {
   flex: 1;
   margin-left: 20px;
@@ -222,23 +239,6 @@ main {
 }
 
 .about-text p {
-  font-size: 16px;
-  line-height: 1.5;
-}
-.about-text2 {
-  flex: 1;
-  margin-left: 20px;
-  display: flex;
-  flex-direction: column; /* Vertically stack the text */
-  justify-content: center; /* Center text vertically */
-}
-
-.about-text2 h2 {
-  font-size: 24px;
-  margin-bottom: 10px;
-}
-
-.about-text2 p {
   font-size: 16px;
   line-height: 1.5;
 }
