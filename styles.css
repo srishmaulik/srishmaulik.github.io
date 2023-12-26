@@ -228,10 +228,9 @@ main {
 .about-text {
   display: flex;
   align-items: center;
-  justify-content: space-between;
+  /* justify-content: space-between; */
   padding: 5px;
   background-color: #fbc372;
-  border-radius: 5px;
   flex: 1;
   margin-left: 20px;
   flex-direction: column; /* Vertically stack the text */
