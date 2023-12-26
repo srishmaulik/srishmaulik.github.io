@@ -226,9 +226,14 @@ main {
   line-height: 1.5;
 }  */
 .about-text {
+  display: flex;
+  align-items: center;
+  justify-content: space-between;
+  padding: 5px;
+  background-color: #fbc372;
+  border-radius: 5px;
   flex: 1;
   margin-left: 20px;
-  display: flex;
   flex-direction: column; /* Vertically stack the text */
   justify-content: center; /* Center text vertically */
 }
