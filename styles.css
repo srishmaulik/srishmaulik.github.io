@@ -225,6 +225,23 @@ main {
   font-size: 16px;
   line-height: 1.5;
 }
+.about-text2 {
+  flex: 1;
+  margin-left: 20px;
+  display: flex;
+  flex-direction: column; /* Vertically stack the text */
+  justify-content: center; /* Center text vertically */
+}
+
+.about-text2 h2 {
+  font-size: 24px;
+  margin-bottom: 10px;
+}
+
+.about-text2 p {
+  font-size: 16px;
+  line-height: 1.5;
+}
 
 /* CSS for resume page */
 
