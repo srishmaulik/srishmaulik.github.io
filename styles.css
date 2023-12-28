@@ -141,7 +141,7 @@ main {
 }
 
 .project-details {
-  font-size : 20px;
+  
   display: flex;
   height: 350px;
   background-color: #fbc372;
@@ -152,7 +152,10 @@ main {
   flex-direction: column;
   text-align: center;
 }
-
+.project-description{
+  font-size: 20px;
+  
+}
   
 
 
