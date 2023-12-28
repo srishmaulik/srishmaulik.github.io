@@ -131,8 +131,8 @@ main {
 
 .project-image {
   object-fit: cover;
-  max-width: 600px;
-  height: 400px;
+  max-width: 400px;
+  max-height: 600px;
   flex-basis: 50px;
   flex-grow: 2;
 
@@ -154,6 +154,7 @@ main {
 }
 .project-description{
   font-size: 20px;
+  font-weight: normal;
 
 }
 
@@ -172,10 +173,10 @@ main {
   text-decoration: underline;
 }
 
-.project-name {
+/* .project-name {
   font-weight: bold;
   font-size: 20px;
-}
+} */
 
 /* CSS for home page */
 
