@@ -143,6 +143,7 @@ main {
 .project-details {
   font-size : 20px;
   display: flex;
+  height: 350px;
   background-color: #fbc372;
   width: 60%;
   padding: 10px;
