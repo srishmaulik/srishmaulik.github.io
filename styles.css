@@ -209,9 +209,10 @@ main {
 }
 
 .about-text {
+  font-size: 30px;
   flex-grow: 1;
   margin-left: 20px;
-  font-size: 30px;
+  
 }
 
 .about-text h2 {
