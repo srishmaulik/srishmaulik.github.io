@@ -302,6 +302,7 @@ p {
   font-family: Georgia;
 }
 .about-blog {
+  font-size: 21px;
   display: flex;
   flex-direction: column; /* Stack elements vertically */
   justify-content: center;
@@ -310,7 +311,7 @@ p {
   background-color: #f8f8f8;
   border: 1px solid #ccc;
   border-radius: 5px;
-  font-size: 26px;
+  
 }
 .about-blog a{
   color: var(--cg-black);
