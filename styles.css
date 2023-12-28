@@ -143,10 +143,10 @@ main {
 .project-details {
   display: flex;
   background-color: #fbc372;
-  width: 30%;
+  width: 60%;
   height: 500px;
   flex-shrink: 1;
-  padding: 0 20px;
+  padding: 10px;
   margin: 0px;
   line-height: 1.5;
   overflow: scroll;
@@ -209,19 +209,19 @@ main {
 }
 
 .about-text {
-  font-size: 30px;
+  font-size: 26px;
   flex-grow: 1;
   margin-left: 20px;
   
 }
 
 .about-text h2 {
-  font-size: 30px;
+  
   margin-bottom: 10px;
 }
 
 .about-text p {
-  font-size: 30px;
+  
   line-height: 1.5;
   max-width: 600px; /* Adjust the max-width as needed */
 }
@@ -310,6 +310,7 @@ p {
   background-color: #f8f8f8;
   border: 1px solid #ccc;
   border-radius: 5px;
+  font-size: 26px;
 }
 .about-blog a{
   color: var(--cg-black);
