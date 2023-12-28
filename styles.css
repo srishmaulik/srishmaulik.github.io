@@ -326,7 +326,12 @@ p {
   font-weight: normal;}
 
 
+.course{
+  font-family: Georgia;
+  font-size: smaller;
+  font-weight: bold;
 
+}
 
 .round-image {
   width: 200px; /* Set your desired width */
