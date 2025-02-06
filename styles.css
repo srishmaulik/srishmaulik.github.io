@@ -17,6 +17,7 @@ body {
   padding: 0;
   margin: 0;
   font-family: monospace;
+  font-size: 16px; 
 }
 
 /* CSS for navigation */
@@ -40,6 +41,39 @@ body {
 
   /* Debug border */
   /* border: solid red; */
+}
+
+/* Responsive adjustments */
+@media (max-width: 768px) {
+  body {
+    font-size: 14px; /* Adjust font size for smaller screens */
+  }
+
+  .project-details {
+    width: 90%; /* Adjust width for smaller screens */
+    padding: 5px; /* Adjust padding for smaller screens */
+  }
+
+  .image-container img {
+    width: 100%; /* Make images responsive */
+    height: auto; /* Maintain aspect ratio */
+  }
+}
+
+@media (max-width: 480px) {
+  body {
+    font-size: 12px; /* Further adjust font size for very small screens */
+  }
+
+  .navbar {
+    height: auto; /* Adjust navbar height for very small screens */
+    flex-direction: column; /* Stack navbar items vertically */
+  }
+
+  .project-details {
+    width: 100%; /* Full width for very small screens */
+    padding: 5px; /* Adjust padding for very small screens */
+  }
 }
 
 .nav-list {
